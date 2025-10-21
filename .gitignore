@@ -1,0 +1,13 @@
+# Python cache files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+compound_interest.py
+jgp_to_pdf.py
