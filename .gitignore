@@ -11,3 +11,5 @@ venv/
 
 compound_interest.py
 jgp_to_pdf.py
+
+.gitignore
